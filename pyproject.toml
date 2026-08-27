@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-prometheus-exporter"
 version = "1.0.0"
-description = "Prometheus /metrics exporter for ComfyUI"
+description = "Prometheus metrics exporter for ComfyUI"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
 readme = "README.md"
