@@ -7,6 +7,9 @@ requires-python = ">=3.10"
 readme = "README.md"
 dependencies = ["prometheus-client"]
 
+[project.urls]
+Repository = "https://github.com/druggeri/ComfyUI-Minimal-Prometheus-Exporter"
+
 [tool.comfy]
 PublisherId = "druggeri"
 DisplayName = "ComfyUI Minimal Prometheus Exporter"
