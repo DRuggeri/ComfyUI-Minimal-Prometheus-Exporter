@@ -1,0 +1,11 @@
+[project]
+name = "comfyui-prometheus-exporter"
+version = "1.0.0"
+description = "Prometheus /metrics exporter for ComfyUI"
+license = {text = "AGPL-3.0-or-later"}
+requires-python = ">=3.10"
+readme = "README.md"
+dependencies = ["prometheus-client"]
+
+[tool.comfy]
+DisplayName = "ComfyUI Prometheus Exporter"
